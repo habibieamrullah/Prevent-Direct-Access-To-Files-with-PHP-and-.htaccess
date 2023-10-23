@@ -1,0 +1,4 @@
+<FilesMatch "\.(?:jpg|mp4)$">
+Order allow,deny
+Deny from all
+</FilesMatch>
